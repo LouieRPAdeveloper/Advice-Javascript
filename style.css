@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+section{
+    padding: 20px 0;
+    height: 100vh;
+}
+
+#Services{
+    background-color: rgb(243 244 246 / 255);
+}
+
+#ContactMe{
+    background-color: rgb(243 244 246 / 255);
+}
+
+.card{
+    max-width: 500px;
+
+  }
